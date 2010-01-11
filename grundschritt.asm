@@ -37,3 +37,4 @@ GRUNDSCHRITT	MOVE	X:(R1),X1 Y:(R1),Y1;
 
 ;ENDE Grundschritt
 				
+				RTS

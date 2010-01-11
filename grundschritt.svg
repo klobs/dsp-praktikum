@@ -146,10 +146,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98896427"
-     inkscape:cx="203.18231"
+     inkscape:cx="80.832086"
      inkscape:cy="665.04072"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1340"
      inkscape:window-height="1108"
@@ -164,7 +164,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -183,7 +183,7 @@
            height="68.690376"
            x="224.25386"
            y="270.50412" /></flowRegion><flowPara
-         id="flowPara3676"></flowPara></flowRoot>    <g
+         id="flowPara3676" /></flowRoot>    <g
        id="g3982">
       <path
          inkscape:connector-type="polyline"
@@ -312,7 +312,7 @@
            sodipodi:cy="530.11334"
            sodipodi:rx="90.408653"
            sodipodi:ry="31.31473"
-           d="m 357.59399,530.11334 a 90.408653,31.31473 0 1 1 -180.81731,0 90.408653,31.31473 0 1 1 180.81731,0 z"
+           d="m 357.59399,530.11334 c 0,17.29465 -40.47734,31.31473 -90.40866,31.31473 -49.93132,0 -90.40865,-14.02008 -90.40865,-31.31473 0,-17.29465 40.47733,-31.31473 90.40865,-31.31473 49.93132,0 90.40866,14.02008 90.40866,31.31473 z"
            transform="matrix(0.62736254,0,0,0.7789983,65.723153,110.08488)" />
         <text
            xml:space="preserve"
@@ -339,7 +339,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Rahmenprogramm"
-     style="display:none">
+     style="display:inline">
     <g
        id="g4872">
       <g
@@ -393,7 +393,7 @@
                y="167.46855" /></flowRegion><flowPara
              id="flowPara4125">Output Adressen vorgeben (bleiben über das restliche Programm konstant):</flowPara><flowPara
              id="flowPara4129">In R2 kommt die Adresse von GS1</flowPara><flowPara
-             id="flowPara4131">In R2 kommt die Adresse von GS2</flowPara></flowRoot>      </g>
+             id="flowPara4131">In R5 kommt die Adresse von GS2</flowPara></flowRoot>      </g>
       <g
          transform="translate(-38.385796,-85.721382)"
          id="g4176">
@@ -498,7 +498,7 @@
              height="49.497475"
              width="253.54829"
              id="rect4254" /></flowRegion><flowPara
-           id="flowPara4256"></flowPara></flowRoot>      <g
+           id="flowPara4256" /></flowRoot>      <g
          transform="translate(19.314392,-260.25326)"
          id="g4272">
         <flowRoot
@@ -961,7 +961,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Speicheranordnung">
+     inkscape:label="Speicheranordnung"
+     style="display:none">
     <g
        id="g5221">
       <rect
@@ -1109,11 +1110,11 @@
       <path
          id="path5114"
          d="m 102.40129,197.2176 0,171.36493"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:6,1;stroke-dashoffset:0" />
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0" />
       <path
          id="path5116"
          d="m 409.76848,198.31041 0,172.20495"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:6,1;stroke-dashoffset:0" />
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0" />
       <flowRoot
          transform="translate(46.198232,6.0797835)"
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
