@@ -1,0 +1,9 @@
+Aufgabe:
+Es ist ein Programm zu erstellen, dass eine DIT FFT macht.
+Dies Programm soll in zwei Module zerlegt werden:
+	
+	Das eine Modul ist der Grundschritt, der die grundlegenden Rechenschritte nachbildet
+
+	Das andere Modul ist das Rahmenprogramm, welches die Parameter fuer den Grundschritt vorbereitet.
+
+Das Programm soll auf einem Freescale DSP [...] lauffaehig sein.
