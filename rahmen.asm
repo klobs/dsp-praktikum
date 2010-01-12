@@ -2,7 +2,8 @@
 ;Initialisierung
 
 ORG	P:$000;
-INCLUDE butterfly.asm;
+INCLUDE butterfly.asm; Problem: das Programm laeuft 
+					 ; noch ab der falschen stelle los!!
 
 ;Schritt 1: Outputadressen einstellen
 
